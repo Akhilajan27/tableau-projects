@@ -46,6 +46,10 @@ The dashboard provides insights into:
 - `HR_Analytics_Dashboard.twbx` — Tableau packaged workbook
 - `HR_Tableau.PNG` — Dashboard screenshot
 - `README.md`
+## 📂 Dataset
+
+The dataset used for this dashboard is included as `HR_Employee_Data.csv`.  
+It contains employee demographics, attrition, job role, education, and satisfaction details used for analysis.
 
 ## 🚀 How to Use
 
